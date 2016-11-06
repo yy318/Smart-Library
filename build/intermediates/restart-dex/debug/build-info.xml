@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="1478405849542546000"
+    token="-1908913504089484810" >
+
+    <task
+        name="javac"
+        duration="2838" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1273" />
+    <task
+        name="verifier"
+        duration="95" />
+
+    <artifact
+        location="/Users/azuracai/AndroidStudioProjects/SmartLibrary/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1478405849542546000" >
+        <artifact
+            location="/Users/azuracai/AndroidStudioProjects/SmartLibrary/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

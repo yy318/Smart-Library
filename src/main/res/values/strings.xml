@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Library</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_activity">second_activity</string>
+    <string name="title_activity_winlab__layout">Winlab_Layout</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_winlab_conf">winlab_conf</string>
+    <string name="title_activity_winlab_orbit">winlab_orbit</string>
+</resources>
